@@ -1,9 +1,9 @@
 {
-    "name": "jwage/purl",
+    "name": "polycademy/purl",
     "type": "library",
     "description": "URL Manipulation for PHP 5.3",
     "keywords": ["url", "manipulation"],
-    "homepage": "http://github.com/jwage/purl",
+    "homepage": "https://github.com/Polycademy/purl",
     "license": "MIT",
     "authors": [
         {"name": "Jonathan H. Wage", "email": "jonwage@gmail.com"}
